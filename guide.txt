@@ -1,0 +1,11 @@
+My project is an algorithm for the operation of a standard smart barrier.
+This code is a prototype and will be improved.
+ 
+What do you need for the code to work?
+1) Install pytesseract and specify the path to it.
+3) Have an account on Twilio, enter data into variables.
+4) Download the file with the haar cascade (attached to the repository), specify the path to this cascade.
+5) Download all the necessary libraries: opencv, fuzzywuzzy, sqllite, twilio, matplotlib, time.
+
+Code analysis in Russian with my comments will be uploaded to the same repository.
+
