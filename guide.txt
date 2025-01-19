@@ -7,6 +7,6 @@ What do you need for the code to work?
 4) Download the file with the haar cascade (attached to the repository), specify the path to this cascade.
 5) Download all the necessary libraries: opencv, fuzzywuzzy, sqllite, twilio, matplotlib, time.
 
-Code analysis in Russian with my comments will be uploaded to the same repository.
+Code analysis in Russian with my comments will be uploaded to the same repository(link below).
 
 https://disk.yandex.ru/d/cFb16TznRJ0gXQ
